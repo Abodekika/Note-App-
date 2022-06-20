@@ -1,6 +1,6 @@
 # Note-App-
 Note App for taking notes using Sqlite datebase
-![screenshot-2022-06-20_21 40 08 897](https://user-images.githubusercontent.com/60238363/174671245-fc594c60-f717-4295-9a01-7eaf1321efb6.png)
+
 ![screenshot-2022-06-20_21 40 32 264](https://user-images.githubusercontent.com/60238363/174671253-c2258b65-81bf-4319-857e-694b48ac3e23.png)
 ![screenshot-2022-06-20_21 55 15 607](https://user-images.githubusercontent.com/60238363/174671265-f24e6d8b-2656-4ec2-8232-9860eed6e7ae.png)
 ![screenshot-2022-06-20_21 56 06 863](https://user-images.githubusercontent.com/60238363/174671272-c7a6d5d2-3fcc-4487-91d1-8c720833375f.png)
